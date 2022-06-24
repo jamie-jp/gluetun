@@ -10,7 +10,7 @@ require (
 	github.com/qdm12/golibs v0.0.0-20210215133151-c711ebd3e56a
 	github.com/qdm12/ss-server v0.1.0
 	github.com/qdm12/updated v0.0.0-20210102005021-dd457d77f94a
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.7.5
 	github.com/vishvananda/netlink v1.1.0
 	golang.org/x/sys v0.0.0-20201223074533-0d417f636930
 )
